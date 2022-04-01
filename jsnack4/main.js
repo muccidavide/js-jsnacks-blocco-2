@@ -9,9 +9,7 @@ let sum = 0;
 for (let i = 0; i < intNumbersArray.length; i++) {
     if (i % 2 !== 0) {
         sum += intNumbersArray[i]
-    } else {
-        console.log("numero in posizione pari");
-    }
+    } 
     
 }
 

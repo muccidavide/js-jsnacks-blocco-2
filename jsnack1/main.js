@@ -23,7 +23,9 @@ while (index < 5) {
     index++;
     
 }
+console.log(somma);
+
 console.log(somma2);
 
-console.log(somma);
+
 
